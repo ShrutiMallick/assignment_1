@@ -1,13 +1,13 @@
 public class calculator{
- 	public static void main(string[]args){
-	int a=5,b=9;
+ 	public static void main(String[]args){
+	float a=5,b=9;
 
 	char operator;
 	
 	 operator='/';
 	 
-	int result;
-	int result;
+	float result;
+	
 	switch(operator)
 		{
 		    case '+': result=a+b;
