@@ -23,6 +23,9 @@ System.out.println(taxdue);}
 	taxdue=21600.00+(income-80000.00)*0.33;
 	System.out.println(taxdue);
 	}
+	else
+	{ System.out.println("-1.0");}	
+	}	
     }
 
 
